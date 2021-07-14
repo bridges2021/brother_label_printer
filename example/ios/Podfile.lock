@@ -1,0 +1,34 @@
+PODS:
+  - bitmap (0.0.1):
+    - Flutter
+  - brother_label_printer (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - path_provider (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - bitmap (from `.symlinks/plugins/bitmap/ios`)
+  - brother_label_printer (from `.symlinks/plugins/brother_label_printer/ios`)
+  - Flutter (from `Flutter`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+
+EXTERNAL SOURCES:
+  bitmap:
+    :path: ".symlinks/plugins/bitmap/ios"
+  brother_label_printer:
+    :path: ".symlinks/plugins/brother_label_printer/ios"
+  Flutter:
+    :path: Flutter
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+
+SPEC CHECKSUMS:
+  bitmap: 591b0556efe6e811a263b8dfdc511fe1faa72315
+  brother_label_printer: 142647cdb3ad95486d6ee6fc6bccafcaeaa0284d
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1
