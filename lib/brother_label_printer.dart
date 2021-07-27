@@ -1,8 +1,6 @@
 import 'dart:async';
-import 'dart:io';
 
 import 'package:flutter/services.dart';
-import 'package:bitmap/bitmap.dart';
 
 class BrotherLabelPrinter {
   static const MethodChannel _channel =
